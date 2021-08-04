@@ -14,3 +14,11 @@ Resources:
 * [Slimme meter van Enexis (Kaifa MA105) uitlezen](http://blog.regout.info/category/slimmeter/)
 * [P1 poort slimme meter (hardware)](http://domoticx.com/p1-poort-slimme-meter-hardware/)
 * [peckham/DsmrParser](https://github.com/peckham/DsmrParser)
+
+Parts used:
+
+* [Wemos D1 Mini](https://www.aliexpress.com/item/1005001817679736.html)
+* [Wemos D1 Mini protoboard](https://www.aliexpress.com/item/1005001817679736.html)
+* Either:
+  * R1: 1KΩ resistor, R2: 2KΩ resistor
+  * OR: [Level shifter](https://www.aliexpress.com/item/4000587260340.html)
